@@ -1,1 +1,1 @@
-web: gunicorn.jntuhresult.wsgi
+web: gunicorn.jntuhresults.wsgi
