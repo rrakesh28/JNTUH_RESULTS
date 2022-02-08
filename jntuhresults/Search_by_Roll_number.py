@@ -9,12 +9,13 @@ headers = {
 }
 url = "http://results.jntuh.ac.in/resultAction"
 dicti={'O':10,'A+':9,'A':8,'B+':7,'B':6,'C':5,'F':0,'Ab':0}
-#-----------------------------------------
+#-----------------------------------------------------------------------
 
 class Extracter:
     def __init__(self):
         self.deta={}
         self.deta.clear()
+    #Getting the data from jntuh website--------------------------------
     def writter(self,payload,roll):
         try:
             r = requests.request("POST", url, headers=headers, data=payload)
@@ -53,6 +54,7 @@ class Extracter:
             return self.deta   
         except:
             pass
+    #-----------------------------------------------------------------------
     def gradeCalculator(self,value):
         total,credits=0,0
         for data in value:
