@@ -2,7 +2,7 @@
 
 # JNTUHRESULTS
 
-An Web Scraping PROJECT for jntuh results`<br/>`
+An Web Scraping PROJECT for jntuh results
 
 # RUNNING
 
@@ -22,7 +22,7 @@ An Web Scraping PROJECT for jntuh results`<br/>`
 # RUNNING
 
 <ul>
- <li>TRY IT NOW: <a href="https://jntuhresults.herokuapp.com/">here</a>(wait for half minute as the website is hosted for free)</li>
+ <li>TRY IT NOW: <a href="https://jntuhresult.herokuapp.com/">here</a>(wait for half minute as the website is hosted for free)</li>
 </ul>
 
 # HOW IT WORKS
