@@ -109,7 +109,10 @@ def the_loaderi(roll,code):
             extract.writter("degree=btech&examCode="+str(i)+"&etype=r17&result=null&grad=null&type=null&htno="+roll,code)
             extract.writter("degree=btech&examCode="+str(i)+"&etype=r17&result=null&grad=gradercrv&type=rcrvintgrade&htno="+roll,code)
     value=extract.deta[code]
-    extract.deta[code]['TOTAL']=extract.gradeCalculator(value)
+    try:
+        extract.deta[code]['TOTAL']=extract.gradeCalculator(value)
+    except:
+        pass
     return extract.deta
 
 
