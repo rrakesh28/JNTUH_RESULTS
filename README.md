@@ -9,7 +9,7 @@ An Web Scraping PROJECT for jntuh results
 # RUNNING
 
 <ul>
- <li>TRY IT NOW: <a href="https://jntuhresult.herokuapp.com/">here</a>(wait for half minute as the website  might went to sleep state)</li>
+ <li>TRY IT NOW: <a href="https://jntuhresults.herokuapp.com/">here</a>(wait for half minute as the website  might went to sleep state)</li>
 </ul>
 
 # HOW IT WORKS
