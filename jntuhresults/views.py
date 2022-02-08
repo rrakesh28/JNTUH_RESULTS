@@ -56,6 +56,6 @@ def oneroll(request):
 def gettingurl(request,htno,code):
     deta={}
     deta=Search_by_Roll_number.the_loaderi(htno,code)
-    if(bool(deta[code])==False):
+    if(!bool(deta[code])):
         return HttpResponse("")
     return render(request,'snippet.html',{'deta':deta})
