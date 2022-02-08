@@ -52,7 +52,7 @@ class Extracter:
                 self.deta[roll][subject_code]["subject_credits"]=subject_credits
             return self.deta   
         except:
-            pass
+            return self.deta
     def gradeCalculator(self,value):
         total,credits=0,0
         for data in value:
