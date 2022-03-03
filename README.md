@@ -9,7 +9,7 @@ An Web Scraping PROJECT for jntuh results
 # RUNNING
 
 <ul>
- <li>TRY IT NOW: <a href="https://jntuhresults.herokuapp.com/">here</a>(wait for half minute as the website  might went to sleep state)</li>
+ <li>TRY IT NOW: <a href="https://jntuhresults.herokuapp.com/">here</a></li>
 </ul>
 
 # HOW IT WORKS
@@ -22,7 +22,10 @@ An Web Scraping PROJECT for jntuh results
  
 # DEMO
 
+![Untitled design (2)](https://user-images.githubusercontent.com/64121161/156638854-b2455f96-1776-41ab-b097-c4329c71be5a.png)
+
+<h3 align="Center">Home Page</h3>
 
 ![Untitled design (1)](https://user-images.githubusercontent.com/64121161/156638075-54743f23-1256-4593-9c70-5166319570e2.png)
 
-<h1 align="Center">Results of All the classmates of a Particular Semester</h1>
+<h3 align="Center">Results of All the classmates of a Particular Semester</h3>
