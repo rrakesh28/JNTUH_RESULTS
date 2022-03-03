@@ -1,7 +1,5 @@
 # JNTUHRESULTS
 
-# JNTUHRESULTS
-
 An Web Scraping PROJECT for jntuh results
 
 
