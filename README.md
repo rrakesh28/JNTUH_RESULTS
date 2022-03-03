@@ -18,6 +18,11 @@ An Web Scraping PROJECT for jntuh results
 <li>Jntuh website doesn't have any api and it does not authenticate when a request is made it just sends back the response of that request</li>
 <li>I made a request and i got a response and using beautiful soup i have parse the html and i got my results</li>
  </ul>
-#DEMO
-https://user-images.githubusercontent.com/64121161/156637075-ffdd2f51-59ca-4941-b811-8fcf001fa5f8.png
+ 
+ 
+# DEMO
+
+![Screenshot (6)](https://user-images.githubusercontent.com/64121161/156637436-df01a876-7588-403f-a847-7a140802cc91.png)
+
+
 Home Page 
