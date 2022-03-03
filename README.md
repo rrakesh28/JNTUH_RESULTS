@@ -19,5 +19,5 @@ An Web Scraping PROJECT for jntuh results
 <li>I made a request and i got a response and using beautiful soup i have parse the html and i got my results</li>
  </ul>
 #DEMO
-![Screenshot (6)](https://user-images.githubusercontent.com/64121161/156637075-ffdd2f51-59ca-4941-b811-8fcf001fa5f8.png)
+https://user-images.githubusercontent.com/64121161/156637075-ffdd2f51-59ca-4941-b811-8fcf001fa5f8.png
 Home Page 
