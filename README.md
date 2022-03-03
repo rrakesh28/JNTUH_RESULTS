@@ -1,6 +1,6 @@
 # JNTUHRESULTS
 
-An Web Scraping PROJECT for JNTUH Results
+The Website Displays the Results of all the classmates and also display the results of all semesters of a particular student
 
 
 
