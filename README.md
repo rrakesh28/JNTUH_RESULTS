@@ -22,7 +22,7 @@ An Web Scraping PROJECT for jntuh results
  
 # DEMO
 
-![Screenshot (6)](https://user-images.githubusercontent.com/64121161/156637436-df01a876-7588-403f-a847-7a140802cc91.png)
 
+![Untitled design (1)](https://user-images.githubusercontent.com/64121161/156638075-54743f23-1256-4593-9c70-5166319570e2.png)
 
 Home Page 
