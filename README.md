@@ -1,6 +1,6 @@
 # JNTUHRESULTS
 
-An Web Scraping PROJECT for jntuh results
+An Web Scraping PROJECT for JNTUH Results
 
 
 
