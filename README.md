@@ -25,4 +25,4 @@ An Web Scraping PROJECT for jntuh results
 
 ![Untitled design (1)](https://user-images.githubusercontent.com/64121161/156638075-54743f23-1256-4593-9c70-5166319570e2.png)
 
-Home Page 
+<h1 align="Center">Results of All the classmates of a Particular Semester</h1>
