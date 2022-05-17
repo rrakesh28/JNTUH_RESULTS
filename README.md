@@ -22,7 +22,8 @@ The Website Displays the Results of all the classmates and also display the resu
 
 <h3 align="Center">Home Page</h3>
 
-![Untitled design (2)](https://user-images.githubusercontent.com/64121161/156638854-b2455f96-1776-41ab-b097-c4329c71be5a.png)
+![Home_Page](https://user-images.githubusercontent.com/64121161/168486734-5d799aed-6110-47aa-8338-a0aa3c70e963.png)
+
 
 <h3 align="Center">Results of All the classmates of a Particular Semester</h3>
 
@@ -31,3 +32,5 @@ The Website Displays the Results of all the classmates and also display the resu
 <h3 align="Center">Results of All the Semesters of a Particular Student</h3>
 
 ![Untitled design (3)](https://user-images.githubusercontent.com/64121161/156640026-73acabfe-f8d6-4b61-bb4e-bdba73d00cdd.png)
+
+(I know the code is shit)
