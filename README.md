@@ -33,4 +33,3 @@ The Website Displays the Results of all the classmates and also display the resu
 
 ![Untitled design (3)](https://user-images.githubusercontent.com/64121161/156640026-73acabfe-f8d6-4b61-bb4e-bdba73d00cdd.png)
 
-(I know the code is shit so I hide it)
